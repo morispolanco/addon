@@ -11,12 +11,12 @@
   <DisplayName DefaultValue="Corrector Ortográfico y Gramatical (Gemini)"/>
   <Description DefaultValue="Revisa ortografía y gramática en español usando la API de Google Gemini"/>
 
-  <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
-  <SupportUrl DefaultValue="https://localhost:3000/support"/>
+  <IconUrl DefaultValue="https://github.com/morispolanco/addon/blob/main/assets/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://github.com/morispolanco/addon/blob/main/assets/icon-64.png"/>
+  <SupportUrl DefaultValue="https://github.com/morispolanco/addon/blob/main/support"/>
 
   <AppDomains>
-    <AppDomain>https://localhost:3000</AppDomain>
+    <AppDomain>https://github.com/morispolanco/addon/blob/main</AppDomain>
   </AppDomains>
 
   <Hosts>
@@ -24,7 +24,7 @@
   </Hosts>
 
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
+    <SourceLocation DefaultValue="https://github.com/morispolanco/addon/blob/main/taskpane.html"/>
   </DefaultSettings>
 
   <Permissions>ReadWriteDocument</Permissions>
